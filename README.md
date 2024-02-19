@@ -89,6 +89,7 @@ ImportError: cannot import name 'zero_gradients' from 'torch.autograd.gradcheck'
 
 It is because of a minor version mismatch between torch and advertorch libraries. You can resolve this by the following simple modifications:
 
+1. locate the file below in your virtual environment (located in your home directory by default):
 
     ```address_to_environment/fastclip/lib/python3.10/site-packages/advertorch/attacks/fast_adaptive_boundary.py```
 
