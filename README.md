@@ -128,7 +128,8 @@ You can replace the argument with the address to the other models.
 
 ## References:
 
-For the details of our methods, comprehensive results and discussions, please refer to our paper:
+For the details of our methods, comprehensive results and discussions, please refer to our [paper](https://openreview.net/pdf?id=tMCsGRtzK2) (coming up in the proceedings of AISTATS 2024).
+
 
 
 Here is the list of papers for the clipping methods we used in our comparisons:
