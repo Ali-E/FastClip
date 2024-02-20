@@ -173,8 +173,6 @@ class SpectralNorm(nn.Module):
 
             if self.bn_hard:
                 w.data = w_clamped
-            else:
-                w.data = w_clamped
 
         else:
             VT = getattr(self.module, self.name + "_VT")
