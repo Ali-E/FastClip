@@ -128,7 +128,7 @@ You can replace the argument with the address to the other models.
 
 ## References:
 
-For the details of our methods, comprehensive results and discussions, please refer to our [paper](https://openreview.net/pdf?id=tMCsGRtzK2) (coming up in the proceedings of AISTATS 2024).
+For the details of our methods, comprehensive results and discussions, please refer to our [paper](https://arxiv.org/abs/2402.16017) (also in the proceedings of AISTATS 2024).
 
 
 
